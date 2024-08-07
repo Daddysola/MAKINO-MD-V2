@@ -19,7 +19,7 @@ global.statusseen = false;                 //make true to view statuses
 
 global.Owner = ["2348160835852"];
 global.OwnerNumber = ["2348160835852"];
-global.ownertag = [""]; 
+global.ownertag = ["2348160835852"]; 
 global.OwnerName =  "Blurr-Sama";
 global.BotName = "Blurr-V2";
 global.packname = "Blurr-Sama";                             //Do not change.
