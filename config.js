@@ -19,7 +19,7 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || "taira-tech-a9929c12cfccdf1476d2aa5e12def296"
+global.SESSION_ID = process.env.SESSION_ID || "taira-tech-4243160669c7a4e5ba9e4f728ab5fc57"
 global.Owner = ["2348160835852"]; //like 2347080968564 
 global.OwnerName =  "Blurr-Sama";
 global.BotName = "♱BLURR-MD-V2♱♡⃤";
